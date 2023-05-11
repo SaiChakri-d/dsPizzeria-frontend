@@ -1,4 +1,4 @@
 export const config = {
-  api : 'https://pizzaapp-server-onrender-com.onrender.com'
+  api : 'https://dspizzeria-server-saichakri.vercel.app'
 //   api: "http://localhost:8000",
 };
